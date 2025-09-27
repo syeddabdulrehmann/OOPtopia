@@ -5,9 +5,13 @@ This project demonstrates the concepts of Aggregation and Composition in C++ usi
 📂 Project Structure
 
 aggregation.h # Aggregation Task classes
+
 composition.h # Composition Task classes
+
 main.cpp # Main program using both tasks 
+
 README.md # Project documentation
+
 
 🔹 Task 1: Aggregation
 
@@ -42,8 +46,11 @@ Calculator has a Display as a member object.
 Create the files:
 
 aggregation.h
+
 composition.h
+
 main.cpp
+
 
 Compile and run:
 
