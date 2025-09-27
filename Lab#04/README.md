@@ -6,10 +6,15 @@ Prepared by: Syed Abdulrehman
 
 This folder contains four concise and educational C++ programs demonstrating key concepts of Object-Oriented Programming (OOP) using various types of inheritance:
 
+
 ✅ Single Inheritance
+
 ✅ Multilevel Inheritance
+
 ✅ Hierarchical Inheritance
+
 ✅ Multiple Inheritance
+
 
 Each task includes:
 
@@ -23,6 +28,7 @@ Simple syntax without use of getline, cin.ignore, or complex libraries
 Classes: Person, Student
 Concept: A student is a person with an additional student_id
 Features: Accepts and displays student information
+
 ✅ Demonstrates simple inheritance of properties and methods.
 
 🔹 Task 2 – Multilevel Inheritance
@@ -30,6 +36,7 @@ Features: Accepts and displays student information
 Classes: Person → Employee → Manager
 Concept: A manager is an employee who is also a person
 Features: Accepts and displays name, age, employee ID, and department
+
 ✅ Demonstrates inheritance through multiple levels of the hierarchy.
 
 🔹 Task 3 – Hierarchical Inheritance
@@ -37,6 +44,7 @@ Features: Accepts and displays name, age, employee ID, and department
 Classes: Employee → Developer, Designer
 Concept: Both developers and designers are employees
 Features: Accepts and displays employee info plus language/tool
+
 ✅ Shows how multiple classes can inherit from a single base class.
 
 🔹 Task 4 – Multiple Inheritance
@@ -44,6 +52,7 @@ Features: Accepts and displays employee info plus language/tool
 Classes: Printer, Scanner → Photocopier
 Concept: A photocopier is both a printer and a scanner
 Features: Calls print_document() and scan_document() via photocopy()
+
 ✅ Demonstrates how one class can inherit from multiple sources.
 
 📁 Structure
